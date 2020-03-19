@@ -1,92 +1,100 @@
 /* #*/ export const PERSON = `
 name:
-  first: John
-  middle:
-  last: Doe
-about: Hi, my name is John Doe. I"m just about the most boring type of person you could
-       possibly imagine. I like collecting leaves from the tree in my back yard and documenting
-       each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
+  first: Alonso 
+  middle: 
+  last: Sanchez Cacya 
+about: Hola, me llamo Alonso Sanchez. En los ultimos años me he dedicado al campo del desarrollo web, programando tanto a nivel de frontend y backend. 
 position: Software Developer
 
 birth:
-  year: 1990
-  location: New York
+  year: 1988 
+  location: Arequipa, Perú 
 
 experience:
-- company: Company A
-  position: Developer
-  timeperiod: since January 2016
-  description: Programming and watching cute cat videos.
-  website: https://example.com
+- company: Catedra Concytec UNSA, Arequipa 
+  position: Practicas Preprofesionales
+  timeperiod: Enero 2014 - Junio 2014
+  description: Practicante en tecnologias windows(Ms-Sql server).
+  #website: 
 
-- company: Company B
+- company: IUVADE EIRL 
   position: Frontend Developer
-  timeperiod: January 2015 - December 2015
-  description: Fulfillment of extremely important tasks.
+  timeperiod: Febrero 2015 - Septiembre 2015
+  description: 'Desarrollo de modulos web, con: ExtJs, PHP, Postgresql.'
 
-- company: Company C
-  position: Trainee
-  timeperiod: March 2014 - December 2014
-  description: Making coffee and baking cookies.
+- company: Global System & Consulting
+  position: Fullstack Developer 
+  timeperiod: Octubre 2015 - Enero 2017
+  description: 'Desarrollo de modulos web, con: AngularJs, Javascript, Java, Postgresql, Git, Metodología RUP.'
+
+- company: Infounsa 
+  position: Fullstack Developer 
+  timeperiod: Mayo 2017 - Octubre 2017
+  description: 'Desarrollo de sistema web, con: Angular 2.'
+
+- company: WMPeru EIRL 
+  position: Frontend Developer 
+  timeperiod: Noviembre 2017 - Junio 2019
+  description: 'Desarrollo de sistemas web y mobile, con: Angular 7, Ionic, Mysql, Git, Docker, Scrum, Php symfony.'
+
+- company: Freelance 
+  position: Fullstack Developer 
+  timeperiod: Octubre 2019 - Actual 
+  description: 'Desarrollo y reingenieria de sistemas web, usando tecnologias como angular, php, mysql, CI/CD, docker, git.'
 
 education:
-- degree: Master of Arts
-  timeperiod: March 2012 - December 2013
-  description: Major in Hacking and Computer Penetration, University A, New York, USA.
-  website: https://example.com
-
-- degree: Bachelor of Science
-  timeperiod: March 2009 - December 2011
-  description: Major in Engineering, University B, Los Angeles, USA.
+- degree: Bachiller en Ing. Sistemas 
+  timeperiod: March 2007 - December 2014
+  description: Ing. Sistemas, Universidad Nacional San Agustin, Arequipa, Perú.
 
 # skill level goes 0 to 100
 skills:
 - name: HTML5
-  level: 99
-- name: CSS3
-  level: 95
+  level: 80 
+- name: PHP Symfony/Laravel
+  level: 50 
+- name: Java 
+  level: 40
 - name: JavaScript
-  level: 97
+  level: 80 
 - name: Node.js
-  level: 93
-- name: Angular 2
-  level: 60
+  level: 50 
+- name: Angular 7+
+  level: 90 
 - name: TypeScript
+  level: 90
+- name: Git 
   level: 80
-- name: ES.Next
-  level: 70
+- name: CI/CD 
+  level: 60
 - name: Docker
-  level: 99
-knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
-  (English and Klingon).
+  level: 30
+- name: Scrum 
+  level: 80 
+knowledge: Conocimiento del idioma ingles a nivel intermedio.
 
-projects:
-- name: best-resume-ever
-  platform: Vue
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-  url: https://github.com/salomonelli/best-resume-ever
+# projects:
+# - name: Scraping de imagenes de muebles 
+#   platform: 'Ionic 4' 
+#   description: Scraping de imagenes de muebles para mobiles, para almacenar imagenes de carpinteria en carpetas del mobil.
+#   url: https://github.com/aloscc/bi
 
 hobbies:
 - name: Video Games
   iconClass: fa fa-gamepad
-  url: https://example.com
+  url: https://play.las.leagueoflegends.com/es_AR  
 
-- name: Drawing
-  iconClass: fa fa-pencil
-  url: https://example.com
-
-contributions:
-- name: best-resume-ever
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
-  url: https://github.com/salomonelli/best-resume-ever
+- name: Viajar 
+  iconClass: fa fa-bicycle
+  url: https://traveling-peru.com/
 
 contact:
-  email: john.doe@email.com
-  phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
-  website: johndoe.com
-  github: johnyD
+  email: alos.cc@gmail.com
+  phone: 971066776 
+  street: Arequipa 
+  city: Arequipa 
+  website: https://www.linkedin.com/in/alonso-sanchez-cacya-312150ab
+  github: aloscc 
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
-lang: en
+lang: es
 `
