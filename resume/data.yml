@@ -3,7 +3,7 @@ name:
   first: Alonso 
   middle: 
   last: Sanchez Cacya 
-about: Hola, me llamo Alonso Sanchez. En los ultimos años me he dedicado al campo del desarrollo web, programando tanto a nivel de frontend y backend. 
+about: Hi, my name is Alonso Sanchez. In the last years was working in web development, programming in frontend and backend.   
 position: Software Developer
 
 birth:
@@ -11,41 +11,41 @@ birth:
   location: Arequipa, Perú 
 
 experience:
-- company: Catedra Concytec UNSA, Arequipa 
-  position: Practicas Preprofesionales
-  timeperiod: Enero 2014 - Junio 2014
-  description: Practicante en tecnologias windows(Ms-Sql server).
+- company: Concytec UNSA, Arequipa 
+  position: Professional Internships 
+  timeperiod: January 2014 - June 2014
+  description: 'Internships in project e-learning'
   #website: 
 
 - company: IUVADE EIRL 
   position: Frontend Developer
-  timeperiod: Febrero 2015 - Septiembre 2015
-  description: 'Desarrollo de modulos web, con: ExtJs, PHP, Postgresql.'
+  timeperiod: February 2015 - September 2015
+  description: 'Programming of web modules, with: ExtJs, PHP, Postgresql.'
 
 - company: Global System & Consulting
   position: Fullstack Developer 
-  timeperiod: Octubre 2015 - Enero 2017
-  description: 'Desarrollo de modulos web, con: AngularJs, Javascript, Java, Postgresql, Git, Metodología RUP.'
+  timeperiod: Octuber 2015 - January 2017
+  description: 'Programming of web modules, with: AngularJs, Javascript, Java, Postgresql, Git, RUP methodology.'
 
 - company: Infounsa 
   position: Fullstack Developer 
   timeperiod: Mayo 2017 - Octubre 2017
-  description: 'Desarrollo de sistema web, con: Angular 2.'
+  description: 'Analysis of administrative web system of Concytec, with: BPMN, Angular 2, java.'
 
 - company: WMPeru EIRL 
   position: Frontend Developer 
-  timeperiod: Noviembre 2017 - Junio 2019
-  description: 'Desarrollo de sistemas web y mobile, con: Angular 7, Ionic, Mysql, Git, Docker, Scrum, Php symfony.'
+  timeperiod: November 2017 - June 2019
+  description: 'Programming of web systems and mobile apps, with: Angular 7, Ionic, Mysql, Git, Docker, Scrum, Php symfony.'
 
-- company: Freelance 
+- company: Freelance WMPeru EIRL
   position: Fullstack Developer 
-  timeperiod: Octubre 2019 - Actual 
-  description: 'Desarrollo y reingenieria de sistemas web, usando tecnologias como angular, php, mysql, CI/CD, docker, git.'
+  timeperiod: October 2019 - current 
+  description: 'Programming of web systems and mobile apps, with: Angular 7, Ionic, Mysql, Git, Docker, Scrum, Php symfony.' 
 
 education:
-- degree: Bachiller en Ing. Sistemas 
+- degree: Bachelor of Software Engineering 
   timeperiod: March 2007 - December 2014
-  description: Ing. Sistemas, Universidad Nacional San Agustin, Arequipa, Perú.
+  description: 'Software Engineering, San Agustin National University, Arequipa, Perú.'
 
 # skill level goes 0 to 100
 skills:
@@ -71,7 +71,7 @@ skills:
   level: 30
 - name: Scrum 
   level: 80 
-knowledge: Conocimiento del idioma ingles a nivel intermedio.
+knowledge: English language knowledge intermediate level.
 
 # projects:
 # - name: Scraping de imagenes de muebles 
@@ -84,7 +84,7 @@ hobbies:
   iconClass: fa fa-gamepad
   url: https://play.las.leagueoflegends.com/es_AR  
 
-- name: Viajar 
+- name: Travel 
   iconClass: fa fa-bicycle
   url: https://traveling-peru.com/
 
@@ -96,5 +96,5 @@ contact:
   website: https://www.linkedin.com/in/alonso-sanchez-cacya-312150ab
   github: aloscc 
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
-lang: es
+lang: en
 `
